@@ -1,5 +1,6 @@
 #include<nothingagian.c>
 int main(){
-	I will not print :p ;
+	Writing Java in C
+	System.out.println(written);
 	return (null);	
 }
